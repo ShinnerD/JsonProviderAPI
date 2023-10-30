@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProviderAPI", "JsonProviderAPI\JsonProviderAPI.csproj", "{37676BB4-7C6D-4A44-BD0B-0BA3E14D6C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37676BB4-7C6D-4A44-BD0B-0BA3E14D6C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37676BB4-7C6D-4A44-BD0B-0BA3E14D6C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37676BB4-7C6D-4A44-BD0B-0BA3E14D6C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37676BB4-7C6D-4A44-BD0B-0BA3E14D6C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43C15CC-331B-479A-A467-5430265EAF90}
+	EndGlobalSection
+EndGlobal
